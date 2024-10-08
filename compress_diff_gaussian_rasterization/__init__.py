@@ -13,7 +13,7 @@ from typing import NamedTuple
 import torch.nn as nn
 import torch
 from . import _C
-# modification by VITA, Kevin 
+# modification by VITA, Kevin
 # added the f_count, a count flag to count the number of time a guassian is activated.  
 
 
